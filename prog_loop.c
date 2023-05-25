@@ -5,7 +5,7 @@
  *               process
  * @data: pointer to associated struct
  *
- * Return: nothing
+ * Return: nothing 0
  */
 
 void fork_exec(command_t *data)
