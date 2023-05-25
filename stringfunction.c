@@ -5,7 +5,7 @@
  * @dest: a pointer tothe destination buffer
  * @src: pointer to the source buffer
  *
- * Return: pointer to concatenated string
+ * Return: straight pointer to concatenated string
  */
 char *_strcat_(char *dest, char *src)
 {
