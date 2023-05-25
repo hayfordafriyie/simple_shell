@@ -3,7 +3,7 @@
 /**
  * buffer_input -the fumction is responsible for
  *           buffering chained commands
- * @data: points to the struct with arguement
+ * @data: points to the struct with arguements
  * @buff: the address of buffer to store input
  * @len: address of len var that rep the length of buffer
  *
