@@ -7,7 +7,7 @@
  * @string: the input string to be split
  * @delim: the delimeter
  *
- * Return:  pointer to an array of strings, otherwise NULL
+ * Return:  straight pointer to an array of strings, otherwise NULL
  */
 char **splitstr2(char *string, char delim)
 {
