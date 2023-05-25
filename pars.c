@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_path - this function searches for a given command in the
+ * get_path - this function searches for a given command in the path
  * PATH string
  * @data: this points to the command_t structure
  * @pathstring: the specific pathstring to look in
