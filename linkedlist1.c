@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * unlink_node_at_index - function that deletes a node at a
+ * unlink_node_at_index - functions that deletes a node at a
  *                        specific index in a linked list
  * @head: this contains the address of the first node in the
  * list
