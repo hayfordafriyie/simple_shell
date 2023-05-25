@@ -4,7 +4,7 @@
  * initialize_data - this function initializesthe command_t struct
  * with its arguements
  * @data: points to commsnd_t struct
- * @av: arg vector with command line arguements
+ * @av: arg vector with command line arguement(s)
  */
 void initialize_data(command_t *data, char **av)
 {
