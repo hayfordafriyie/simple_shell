@@ -6,7 +6,7 @@
  *             allocated block of memory
  * @ptr: pointer to the memory block to be resized
  * @oldSize: current size of the memory block
- * @newSize: the desired ne size of memory block
+ * @newSize: the desired ne sizes of memory block
  *
  * Return: a pointer to the resized memory block
  */
