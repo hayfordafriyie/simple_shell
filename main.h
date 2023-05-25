@@ -45,7 +45,7 @@ extern char **environ;
 /**
  * struct listnode - represents a singly linked list
  *
- * @value: the integer associated with node
+ * @value: the integer associated with nodes
  * @str: the string associated with the node
  * @next: a pointer to next node in the linked list
  */
