@@ -2,7 +2,7 @@
 
 /**
  * let_free -  function that frees a pointer and
- *             sets address to NULL
+ *             sets addresses to NULL
  * @p: address of the pointer to freed and set to NULL
  *
  * Return: 1 memory is freed, otherwise 0.
