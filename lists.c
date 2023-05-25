@@ -2,7 +2,7 @@
 
 /**
  * find_node_index - function which finds the index of
- *                     a node in a linked list
+ *                     a node in a linked lists
  * @h: this points to list head
  * @node: this points  to the node
  *
